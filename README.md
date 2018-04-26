@@ -8,3 +8,5 @@ If the users balance is larger than the loan amount plus interest (20%) then the
 If the users balance is smaller than the loan amount after interest then the user will be redirected to the overdraw.php file which tells them they were not approved for the loan based on their prior information.  They are then told to enter another loan amount.
 
 This detecs and handles errors by using redirection.
+
+# WHEN RUNNING, YOUR TEXT EDITOR/IDE MUST BE CONNECTED TO SERVER (Ex. MAMP, WAMP, etc..) AND FILES MUST BE SAVED IN SAME LOCATION
